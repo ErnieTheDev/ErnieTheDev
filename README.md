@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SizzlRetrat
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on what do i answer here?
 - 📫 How to reach me jeez no not that!
 
