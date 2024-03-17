@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SizzlRetrat
+- 👋 Hi, I’m Ernie
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on what do i answer here?
-- 📫 How to reach me jeez no not that!
+- 🌱 I’m currently learning Movement Systems in Lua
+- 💞️ I’m looking to collaborate on Trains
+- 📫 How to reach me: DM on GitHub, that ez
 
 <!---
 SizzlRetrat/SizzlRetrat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
