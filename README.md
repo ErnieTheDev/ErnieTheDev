@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Movement Systems in Lua
 - 💞️ I’m looking to collaborate on Trains
 - 📫 How to reach me: DM on GitHub, that ez
+- 🗒️ I will be privating all my repos untill they are done
+- 🤔 EXB Studios are hiring
 
 <!---
 SizzlRetrat/SizzlRetrat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
