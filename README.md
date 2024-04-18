@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on Trains
 - 📫 How to reach me: DM on GitHub, that ez
 - 🗒️ I will be privating all my repos until they are done
-- 🤔 EXB Studios are hiring https://discord.gg/2uwrUYXwec 
+- 🤔 EXB Studios are hiring https://discord.gg/2uwrUYXwec
+- 🕊 RIP Github Achievements, My silver pull shark will not come
 
 <!---
 SizzlRetrat/SizzlRetrat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
