@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ernie
+- 👋 Hi, I’m Evie
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning Movement Systems in Lua
 - 💞️ I’m looking to collaborate on Trains
